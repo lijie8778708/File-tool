@@ -24,3 +24,5 @@ Hint!!!
  I use java swing to write the UI, and It is not very fast. If you uploaded your file and and the window did not refresh. 
  scroll your mouse up and down on the window and it should be pop out. If it still not showing list correctly, Please
  relaunch the client program!!
+ 
+ Also! If you click upload file button and it does not give your response. Just click multiple times, its just lagging. 
